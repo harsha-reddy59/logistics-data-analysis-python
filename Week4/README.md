@@ -1,20 +1,45 @@
 # 📊 Week 4 - Predictive Modeling & Optimization
 
 ## 🎯 Objective
-Build a predictive model to forecast logistics metrics and propose optimization strategies.
+Build a predictive model to forecast delivery time and propose optimization strategies for logistics efficiency.
 
-## 🔧 Work Done
-- Built predictive model (Linear Regression / ML)
-- Applied train-test split
-- Evaluated using MAE, RMSE, R²
-- Performed model validation
-- Proposed logistics optimization strategies
+## 📌 Problem Statement
+A logistics company wants to:
+- Predict delivery time
+- Reduce delays
+- Optimize routing and cost
+
+## 📊 Dataset
+Simulated logistics dataset including:
+- Distance
+- Shipment weight
+- Transport mode
+- Delivery time (target variable)
+
+## ⚙️ Model Used
+- Linear Regression
+- Train-Test Split (80/20)
+
+## 📈 Evaluation Metrics
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+## 🔍 Work Done
+- Data preprocessing
+- Feature selection
+- Model training
+- Model evaluation
+- Prediction visualization
+
+## 🚀 Optimization Strategies
+- Route optimization using OR-Tools
+- Reduce delivery delays using predictions
+- Improve vehicle allocation
 
 ## 📁 Files
-- Week4_Predictive_Model_Report.docx
-- week4_model.py
+- Week4_Logistics_Predictive_Modeling_Optimization_Report.docx
+- logistics_predictive_optimization.py
 
-## 📈 Outcome
-- Accurate delivery time prediction
-- Data-driven decision making
-- Improved logistics efficiency
+## 👤 Author
+Harshavardhan Reddy
