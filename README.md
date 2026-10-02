@@ -1,4 +1,9 @@
-# Logistics Data Analysis (Python)
+# 🚀 Logistics Data Analysis (Python)
+
+## Internship Project Overview
+This project is part of my Data Science Internship, focusing on solving real-world logistics problems using Python. It demonstrates end-to-end understanding from strategic planning to data collection, preprocessing, and analysis.
+
+The goal is to improve logistics efficiency by identifying key issues such as inventory imbalance, delivery delays, and inefficient routing using data-driven techniques.
 
 ## 📌 Overview
 This project focuses on strategic planning and data exploration in logistics using data science techniques.
