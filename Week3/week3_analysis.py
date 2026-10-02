@@ -1,4 +1,14 @@
-"""Week 1 – Logistics strategic planning: illustrative Python scripts.
+"""
+Week 3 – Logistics Data Analysis & Visualization
+
+This script performs:
+- Data cleaning
+- KPI computation
+- Exploratory Data Analysis (EDA)
+- Visualization of logistics performance
+
+Libraries used: pandas, numpy, matplotlib
+"""
 Requires: pandas, numpy, matplotlib, scikit-learn, ortools
 """
 import pandas as pd
