@@ -17,6 +17,16 @@ A logistics company faces:
 - Delivery Zone Clustering (K-Means)
 - Route Optimization (VRP using OR-Tools)
 
+## 📊 Project Workflow
+
+1. Data Collection (simulated logistics dataset)
+2. Data Cleaning (missing values, duplicates)
+3. Outlier Detection
+4. Feature Scaling & Normalization
+5. Exploratory Data Analysis (EDA)
+6. KPI Calculation
+7. Future Scope: Prediction & Optimization
+
 ## 🛠️ Tools Used
 - Python (Pandas, NumPy, Matplotlib)
 - Scikit-learn
@@ -25,8 +35,20 @@ A logistics company faces:
 ## 📈 Outcome
 Improved efficiency, reduced cost, and better logistics decision-making.
 
-## 📂 Files
+## 📁 Files
 - Week1_Logistics_Strategic_Planning_Report.docx
+- Week2_Logistics_Data_Preprocessing_Report.docx
+- logistics_analysis_snippets.py
+- logistics_preprocessing.py
+  
+## 📊 Week 2 - Data Collection & Preprocessing
 
-## 👤 Author
+- Simulated logistics dataset (delivery, inventory, routes)
+- Handled missing values using mean/median imputation
+- Removed duplicate records
+- Detected and treated outliers
+- Applied feature scaling (Normalization & Standardization)
+- Built preprocessing pipeline using Pandas & Scikit-learn
+
+  ## 👤 Author
 Harshavardhan Reddy
