@@ -1,7 +1,7 @@
 # 🚀 Logistics Data Analysis (Python)
 
 ## 📌 Internship Project Overview
-This project is part of my Data Science Internship, focusing on solving real-world logistics problems using Python. It demonstrates an end-to-end workflow from strategic planning to data collection, preprocessing, and analysis.
+This project is part of my Data Science Internship, focusing on solving real-world logistics problems using Python. It demonstrates an end-to-end workflow from strategic planning to data collection, preprocessing, analysis, and predictive modeling.
 
 The goal is to improve logistics efficiency by identifying key issues such as inventory imbalance, delivery delays, and inefficient routing using data-driven techniques.
 
@@ -20,7 +20,8 @@ A logistics company faces:
 - KPI Calculation (On-Time Delivery, Inventory Turnover, Cost per Delivery)  
 - Exploratory Data Analysis (EDA)  
 - Data Visualization of logistics performance  
-- Future Scope: Demand Forecasting & Route Optimization  
+- Predictive Modeling (Delivery Time Forecasting)  
+- Optimization Strategies for logistics operations  
 
 ---
 
@@ -31,6 +32,8 @@ A logistics company faces:
 4. Feature Scaling & Normalization  
 5. Exploratory Data Analysis (EDA)  
 6. KPI Calculation  
+7. Predictive Modeling (Linear Regression & Random Forest)  
+8. Optimization & Decision-Making  
 
 ---
 
@@ -59,6 +62,10 @@ Improved logistics efficiency, reduced operational costs, and enhanced data-driv
 - `Week3/Week3_Logistics_Data_Analysis_Visualization.docx`
 - `Week3/week3_analysis.py`
 - `Week3/logistics_dataset.csv`
+
+### 📌 Week 4 - Predictive Modeling & Optimization
+- `Week4/Week4_Logistics_Predictive_Modeling_Optimization_Report.docx`
+- `Week4/logistics_predictive_optimization.py`
 
 ---
 
