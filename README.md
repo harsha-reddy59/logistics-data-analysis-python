@@ -1,59 +1,66 @@
 # 🚀 Logistics Data Analysis (Python)
 
-## Internship Project Overview
-This project is part of my Data Science Internship, focusing on solving real-world logistics problems using Python. It demonstrates end-to-end understanding from strategic planning to data collection, preprocessing, and analysis.
+## 📌 Internship Project Overview
+This project is part of my Data Science Internship, focusing on solving real-world logistics problems using Python. It demonstrates an end-to-end workflow from strategic planning to data collection, preprocessing, and analysis.
 
 The goal is to improve logistics efficiency by identifying key issues such as inventory imbalance, delivery delays, and inefficient routing using data-driven techniques.
 
-## 📌 Overview
-This project focuses on strategic planning and data exploration in logistics using data science techniques.
+---
 
 ## 🚚 Problem Statement
 A logistics company faces:
-- Inventory imbalance
-- Inefficient delivery routing
-- Inconsistent on-time delivery
+- Inventory imbalance  
+- Inefficient delivery routing  
+- Inconsistent on-time delivery  
+
+---
 
 ## 📊 Key Features
-- Data Cleaning & Preprocessing
-- KPI Calculation (OTD, Inventory Turnover, Cost per Delivery)
-- Exploratory Data Analysis (EDA)
-- Demand Forecasting (Regression)
-- Delivery Zone Clustering (K-Means)
-- Route Optimization (VRP using OR-Tools)
+- Data Cleaning & Preprocessing  
+- KPI Calculation (On-Time Delivery, Inventory Turnover, Cost per Delivery)  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization of logistics performance  
+- Future Scope: Demand Forecasting & Route Optimization  
 
-## 📊 Project Workflow
+---
 
-1. Data Collection (simulated logistics dataset)
-2. Data Cleaning (missing values, duplicates)
-3. Outlier Detection
-4. Feature Scaling & Normalization
-5. Exploratory Data Analysis (EDA)
-6. KPI Calculation
-7. Future Scope: Prediction & Optimization
+## 🔄 Project Workflow
+1. Data Collection (simulated logistics dataset)  
+2. Data Cleaning (handling missing values & duplicates)  
+3. Outlier Detection & Treatment  
+4. Feature Scaling & Normalization  
+5. Exploratory Data Analysis (EDA)  
+6. KPI Calculation  
 
-## 🛠️ Tools Used
-- Python (Pandas, NumPy, Matplotlib)
-- Scikit-learn
-- Google OR-Tools
+---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib)  
+- Scikit-learn  
+- Google OR-Tools (for optimization scope)  
+
+---
 
 ## 📈 Outcome
-Improved efficiency, reduced cost, and better logistics decision-making.
+Improved logistics efficiency, reduced operational costs, and enhanced data-driven decision-making.
 
-## 📁 Files
-- Week1_Logistics_Strategic_Planning_Report.docx
-- Week2_Logistics_Data_Preprocessing_Report.docx
-- logistics_analysis_snippets.py
-- logistics_preprocessing.py
-  
-## 📊 Week 2 - Data Collection & Preprocessing
+---
 
-- Simulated logistics dataset (delivery, inventory, routes)
-- Handled missing values using mean/median imputation
-- Removed duplicate records
-- Detected and treated outliers
-- Applied feature scaling (Normalization & Standardization)
-- Built preprocessing pipeline using Pandas & Scikit-learn
+## 📁 Project Structure
 
-  ## 👤 Author
-Harshavardhan Reddy
+### 📌 Week 1 - Strategic Planning
+- `Week1/Week1_Logistics_Strategic_Planning_Report.docx`
+
+### 📌 Week 2 - Data Preprocessing
+- `Week2/Week2_Logistics_Data_Preprocessing_Report.docx`
+- `Week2/week2_preprocessing.py`
+
+### 📌 Week 3 - Data Analysis & Visualization
+- `Week3/Week3_Logistics_Data_Analysis_Visualization.docx`
+- `Week3/week3_analysis.py`
+- `Week3/logistics_dataset.csv`
+
+---
+
+## 👤 Author
+**Harshavardhan Reddy**
